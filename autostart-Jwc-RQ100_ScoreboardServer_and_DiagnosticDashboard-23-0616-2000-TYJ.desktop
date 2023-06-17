@@ -1,0 +1,3 @@
+[Desktop Entry]
+Name=RQ100_ScoreboardServer_and_DiagnosticDashboard
+Exec=xterm -hold -e '/bin/python /home/pi/23-0305-1900-Jwc/23-0305-1910-PySimpleGui-Multifolders/23-0524-2100-PySimpleGui/23-0523-2000-TYJ-AnimatedLineGraph-RQ100_MicrobitSerialRead.py'

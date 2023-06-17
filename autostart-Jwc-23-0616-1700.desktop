@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=RQ100_OLED_TextStats
+Exec=/bin/python /home/pi/23-0305-1900-Jwc/23-0616-1300-Adafruit-Oled-128x64/23-0615-1500-Adafruit-Oled-128x64-Test-TextStats-23-0615-1440-AAA-TYJ-FINAL.py
+[Desktop Entry]
+Name=RQ100_ScoreboardServer_and_DiagnosticDashboard
+Exec=/bin/python /home/pi/23-0305-1900-Jwc/23-0305-1910-PySimpleGui-Multifolders/23-0524-2100-PySimpleGui/23-0523-2000-TYJ-AnimatedLineGraph-RQ100_MicrobitSerialRead.py
